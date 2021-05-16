@@ -1,0 +1,4 @@
+Cerințe minimale:
+1. Aplicare algoritm de recunoaștere facială pe o imagine specificată prin citire de la tastatură.
+2. Marcarea fetelor identificate și salvarea lor în imagini separate.
+3. Afișarea pozițiilor fețelor identificate în cadrul imaginii.
